@@ -20,7 +20,7 @@ Tecnologías usadas
  Capturas
 
 Formulario de inicio de sesion
-![Login](capturas/iniciarsesion(1).png)
+![Login](capturas/iniciarsesion%20(1).png)
 
 Formulario de crear usuario
 ![crear-usuario](capturas/crearcuenta.png)
@@ -32,7 +32,7 @@ Lista de productos a escoger
 ![listadeproductos](capturas/productoslista.png)
 
 Carrito de compras llenado
-![Carrito](capturas/carritolleno(1).png)
+![Carrito](capturas/carritolleno%20(1).png)
 
 Pedido realizado
 ![Pedido](capturas/mensajeconf.png)
