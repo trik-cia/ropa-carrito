@@ -1,5 +1,4 @@
 Ropa-Carrito es una tienda virtual sencilla donde los usuarios pueden:
-
 - Registrarse e iniciar sesión
 - Agregar productos al carrito
 - Ver descuentos
@@ -9,12 +8,10 @@ Ropa-Carrito es una tienda virtual sencilla donde los usuarios pueden:
 
 
 Tecnologías usadas
-
 - PHP
 - Bootstrap 5
 - PHPMailer
 - MySQL (XAMPP)
-
 
 
  Capturas
@@ -43,12 +40,8 @@ Mensaje en el correo registrado para la compra
 Historial de pedido
 ![historial](capturas/historialpedido.png)
 
-> Puedes agregar las imágenes dentro de una carpeta llamada `capturas/`.
 
-
-
-Demo en video
-
+Demo en video:
 [Ver demostración en YouTube](https://youtu.be/A7sOaTKctjI)
 
 
